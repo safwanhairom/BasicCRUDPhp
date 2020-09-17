@@ -1,5 +1,5 @@
 # basic crud php
-*$ create
-*$ read
-*$ update
-*$ delete
+* $create
+* $read
+* $update
+* $delete
