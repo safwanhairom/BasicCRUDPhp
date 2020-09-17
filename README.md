@@ -1,8 +1,9 @@
-# Basic Crud Php
+# Very Basic Crud Php
 * $create
 * $read
 * $update
 * $delete
 
-## Database Mysql
+## Requirement
+xampp
 
